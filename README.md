@@ -1,2 +1,2 @@
 # telegram-bot
-first excperiment
+first experiment
